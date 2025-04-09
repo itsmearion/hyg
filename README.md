@@ -18,13 +18,13 @@
 ```csharp
 My Profile
 -------------------------------
-Name: Karan Singh.
+Name: Chalondra (Alfian).
 WhoamI: High School Student 🏫.
 Gender: Male.
 Location: Chandigarh, India.
 Loves: Videogames 🎮, Stuff technology 🚀, Books 📚.
 Hobbies: Gaming, Coding while I am listening Music 🎶.
-Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.
+Languages: CPlusPlus, CSharp, CSS, HTML, JavaScript, Python, Go.8bh
 Learning: Computer Science.
 Telegram: @EVERYONExKSK.
 ```
