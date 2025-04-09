@@ -147,12 +147,6 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
     <table>
       <tr>
         <td align="center" style="width: 40%;">
-          <a href="https://discord.com/users/593308295146504192">
-            <img width="40" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"><br>
-            <b>KSK #1149</b>
-          </a>
-        </td>
-        <td align="center" style="width: 40%;">
           <a href="https://telegram.dog/itschalondra">
             <img width="45" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><br>
             <b>@itschalondra</b>
