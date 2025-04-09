@@ -153,9 +153,9 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
           </a>
         </td>
         <td align="center" style="width: 40%;">
-          <a href="https://telegram.dog/everyonexksk">
+          <a href="https://telegram.dog/itschalondra">
             <img width="45" src="https://static.cdnlogo.com/logos/t/6/telegram.svg"><br>
-            <b>@EVERYONExKSK</b>
+            <b>@itschalondra</b>
           </a>
         </td>
       </tr>
