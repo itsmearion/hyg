@@ -102,16 +102,6 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 </div>
 <br>
 
-<h2 align="center"> My contributions game 🐍🎮</h2>
-
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
-<br>
-
-
-</div>  
-<br>
-<div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpiYnk0eGtyOWN6Nzc3eWJrb3lta3kzNHNrN2d0YWxuMjUyYm1xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12DrHDhr5dTjgs/giphy.gif" align="center" />
