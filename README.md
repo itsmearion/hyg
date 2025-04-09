@@ -1,13 +1,13 @@
-<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+Karan'></h1>
+<h1 align="center"><img src='https://readme-typing-svg.herokuapp.com/?font=Righteous&size=60&duration=6000&center=true&vCenter=true&width=1600&height=140&lines=%E2%9C%A8+Hi+there+%F0%9F%91%8B+I%27m+Chalondra'></h1>
 
 <body>
 <br>
 <div align="center">
-<img src="https://media1.tenor.com/m/35W-9kJ5aXkAAAAC/luffy-yo.gif" width="300px">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGhmZ3hvMmNlZzN1cjR0MnBvbDR5bGV2YWZpdDJvaWlkdmJ6dTNkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/132tfJl4NAMiU8/giphy.gif" width="300px">
 </div>
 <br>
 
-<h2 align="center"> 💬 About me <img src="https://user-images.githubusercontent.com/74038190/216654116-d0e8d227-7977-4edc-8d36-63461bda9503.gif" width="40" /></h2>
+<h2 align="center"> 💬 About me <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDFmYmdsNmZ0cDB1eHRwam9xenByenkwaWsxZGEyaDg4bTdxMTJpbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Zmb48nW1EZg5i/giphy.gif" width="40" /></h2>
 
 ```zsh
 > neofetch
