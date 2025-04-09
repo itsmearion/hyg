@@ -104,8 +104,8 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 
 <h2 align="center"> My contributions game 🐍🎮</h2>
 
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/KSKOP69/KSKOP69/output/github-contribution-grid-snake.svggh-light-mode-only)
+![](https://raw.githubusercontent.com/chalondraa/chalondraa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/chalondraa/chalondraa/output/github-contribution-grid-snake.svggh-light-mode-only)
 <br>
 
 
@@ -131,7 +131,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 <details>
   <summary><h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand%20Light%20Skin%20Tone.png" alt="Writing Hand Light Skin Tone" width="40" height="40" /> A Random Developer Quote</h2></summary>
   <div align="center">
-    <a href="https://github.com/KSKOP69/KSKOP69">
+    <a href="https://github.com/chalondraa/chalondraa">
       <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=midnight-purple" alt="Readme Quotes">
     </a>
   </div>
