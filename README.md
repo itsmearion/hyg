@@ -114,7 +114,7 @@ My programming languages include Python, Go, JavaScript, Node.js, C, C#, C++, CS
 <div>
 <h2 align="center">Thank you for reading 🙋🏻‍♂️</h2>
 <div>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDB3N2Y5cTR0ajJybTk3czB0YXNzeGo5cTFzYWJsd2sybmI3ejB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUhn4clMyitnG/giphy.gif" align="center" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpiYnk0eGtyOWN6Nzc3eWJrb3lta3kzNHNrN2d0YWxuMjUyYm1xOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12DrHDhr5dTjgs/giphy.gif" align="center" />
   </div>
 <br> 
 </div>  
